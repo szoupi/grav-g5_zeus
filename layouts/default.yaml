@@ -27,6 +27,8 @@ layout:
         'mainbar 50':
           -
             - system-messages-2617
+          -
+            - system-content-1966
       -
         'sidebar 25': {  }
   /mainbottom/: {  }
